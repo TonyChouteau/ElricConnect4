@@ -1,2 +1,2 @@
-# ElricT3
-Elric Monte Carlo - TicTacToe
+# ElricConnect4
+Elric Monte Carlo - Connect4
